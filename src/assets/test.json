@@ -1,0 +1,58 @@
+{"questions" : [
+    {   
+        "questionId" : 1,
+        "question" : "1. Router is part of which of the following module??",
+        "options"  : 
+                    [
+                        "@angular/core",
+                        "@angular/router",
+                        "Both",
+                        "None of the above"
+                    ],
+        "answer" : "@angular/router",
+        "selectedAnswer" : false,
+        "userAnswered" : ""
+    },
+    {
+        "questionId" : 2,
+        "question" : "2. What is .subscribe?",
+         "options"  : 
+                    [
+                        "Streams data in asynchronously",
+                        "Streams data in synchronously",
+                        "Both",
+                        "None of the above"
+                    ],
+        "answer" : "Streams data in asynchronously",
+        "selectedAnswer" : false,
+        "userAnswered" : ""
+    },
+    {
+        "questionId" : 3,
+        "question" : "3. What is the scripting language used in Angular8?",
+        "options"  : 
+                    [
+                        "Typescript",
+                        "Javascript",
+                        "HTML",
+                        "Python"
+                    ],
+        "answer" : "Typescript",
+        "selectedAnswer" : false,
+        "userAnswered" : ""
+    },
+    {
+        "questionId" : 4,
+        "question" : "4. NgModel is used for what type of binding?",
+         "options"  : 
+                    [
+                        "one-way binding",
+                        "Two-way binding",
+                        "NgModel not a valid binding",
+                        "None of the above"
+                    ],
+        "answer" : "Two-way binding",
+        "selectedAnswer" : false,
+        "userAnswered" : ""
+    }
+]}
